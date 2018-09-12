@@ -1,7 +1,6 @@
 ---
 title: "Analysis of White Wine Dataset: Investigating Factors Contributing to White Wines"
-author: "Mohammad Key Manesh"
-date: "Tuesday, May 05, 2015"
+
 output: html_document
 ---
 
